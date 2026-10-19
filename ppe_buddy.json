@@ -1,8 +1,8 @@
 {
   "title": "PPE Studienassistent",
   "subtitle": "Dein Berater für Fragen rund um den PPE an der UDE!",
-  "model-name": "Qwen 3.8 27B",
-  "model": "Qwen 3.8 27B",
+  "model-name": "Qwen/Qwen3.8-27B-FP8",
+  "model": "Qwen/Qwen3.8-27B-FP8",
   "temperature": 0,
   "top_p": 0,
   "messages": [
